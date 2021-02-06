@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+    <img src="https://picr.eu/images/2021/02/06/QYLvL.png" alt="Logo" width=200>
   </a>
 
   <h3 align="center">AI Stock prediction</h3>
